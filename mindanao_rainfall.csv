@@ -1,0 +1,68 @@
+Station,Province,Month,Rainfall_mm,Year
+Iligan,Lanao del Norte,January,215,2023
+Iligan,Lanao del Norte,February,178,2023
+Iligan,Lanao del Norte,March,145,2023
+Iligan,Lanao del Norte,April,132,2023
+Iligan,Lanao del Norte,May,198,2023
+Iligan,Lanao del Norte,June,245,2023
+Iligan,Lanao del Norte,July,268,2023
+Iligan,Lanao del Norte,August,255,2023
+Iligan,Lanao del Norte,September,230,2023
+Iligan,Lanao del Norte,October,210,2023
+Iligan,Lanao del Norte,November,195,2023
+Iligan,Lanao del Norte,December,220,2023
+Cagayan de Oro,Misamis Oriental,January,178,2023
+Cagayan de Oro,Misamis Oriental,February,152,2023
+Cagayan de Oro,Misamis Oriental,March,128,2023
+Cagayan de Oro,Misamis Oriental,April,115,2023
+Cagayan de Oro,Misamis Oriental,May,185,2023
+Cagayan de Oro,Misamis Oriental,June,225,2023
+Cagayan de Oro,Misamis Oriental,July,248,2023
+Cagayan de Oro,Misamis Oriental,August,240,2023
+Cagayan de Oro,Misamis Oriental,September,215,2023
+Cagayan de Oro,Misamis Oriental,October,195,2023
+Cagayan de Oro,Misamis Oriental,November,180,2023
+Cagayan de Oro,Misamis Oriental,December,205,2023
+Davao City,Davao del Sur,January,145,2023
+Davao City,Davao del Sur,February,120,2023
+Davao City,Davao del Sur,March,105,2023
+Davao City,Davao del Sur,April,98,2023
+Davao City,Davao del Sur,May,165,2023
+Davao City,Davao del Sur,June,210,2023
+Davao City,Davao del Sur,July,235,2023
+Davao City,Davao del Sur,August,228,2023
+Davao City,Davao del Sur,September,200,2023
+Davao City,Davao del Sur,October,185,2023
+Davao City,Davao del Sur,November,170,2023
+Davao City,Davao del Sur,December,190,2023
+Malaybalay,Bukidnon,January,165,2023
+Malaybalay,Bukidnon,February,140,2023
+Malaybalay,Bukidnon,March,118,2023
+Malaybalay,Bukidnon,April,105,2023
+Malaybalay,Bukidnon,May,175,2023
+Malaybalay,Bukidnon,June,220,2023
+Malaybalay,Bukidnon,July,255,2023
+Malaybalay,Bukidnon,August,248,2023
+Malaybalay,Bukidnon,September,225,2023
+Malaybalay,Bukidnon,October,200,2023
+Malaybalay,Bukidnon,November,185,2023
+Malaybalay,Bukidnon,December,210,2023
+General Santos,South Cotabato,January,95,2023
+General Santos,South Cotabato,February,78,2023
+General Santos,South Cotabato,March,65,2023
+General Santos,South Cotabato,April,58,2023
+General Santos,South Cotabato,May,125,2023
+General Santos,South Cotabato,June,180,2023
+General Santos,South Cotabato,July,210,2023
+General Santos,South Cotabato,August,205,2023
+General Santos,South Cotabato,September,175,2023
+General Santos,South Cotabato,October,155,2023
+General Santos,South Cotabato,November,140,2023
+General Santos,South Cotabato,December,160,2023
+Iligan,Lanao del Norte,January,228,2024
+Iligan,Lanao del Norte,February,185,2024
+Cagayan de Oro,Misamis Oriental,January,192,2024
+Cagayan de Oro,Misamis Oriental,February,165,2024
+Davao City,Davao del Sur,January,158,2024
+Malaybalay,Bukidnon,January,178,2024
+General Santos,South Cotabato,January,105,2024

@@ -1,0 +1,31 @@
+Province,Crop,Production_Tons,Area_Hectares,Year
+Bukidnon,Corn,1250000,280000,2023
+Bukidnon,Rice,520000,95000,2023
+Bukidnon,Banana,3100000,85000,2023
+Bukidnon,Pineapple,1750000,45000,2023
+Lanao del Norte,Rice,185000,42000,2023
+Lanao del Norte,Corn,280000,75000,2023
+Lanao del Norte,Coconut,450000,120000,2023
+Davao del Norte,Banana,2800000,72000,2023
+Davao del Norte,Coconut,380000,95000,2023
+Davao del Sur,Rice,210000,48000,2023
+Davao del Sur,Banana,950000,35000,2023
+South Cotabato,Corn,420000,110000,2023
+South Cotabato,Pineapple,680000,28000,2023
+South Cotabato,Rice,195000,45000,2023
+Cotabato,Rice,320000,72000,2023
+Cotabato,Corn,380000,95000,2023
+Cotabato,Banana,850000,28000,2023
+Misamis Oriental,Corn,95000,28000,2023
+Misamis Oriental,Rice,65000,15000,2023
+Zamboanga del Sur,Coconut,520000,140000,2023
+Zamboanga del Sur,Rice,145000,35000,2023
+Bukidnon,Corn,1320000,285000,2024
+Bukidnon,Rice,545000,98000,2024
+Bukidnon,Banana,3020000,86000,2024
+Lanao del Norte,Rice,195000,43500,2024
+Lanao del Norte,Corn,295000,78000,2024
+Davao del Norte,Banana,2750000,71000,2024
+South Cotabato,Corn,435000,112000,2024
+Cotabato,Rice,335000,74000,2024
+Misamis Oriental,Corn,88000,26500,2024
